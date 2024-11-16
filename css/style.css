@@ -43,6 +43,13 @@ h1,h2,h3,h4,h5
         color: #ffffff;
         font-weight: bold;
     }
+
+ #home .col-md-8 {
+        background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black */
+        padding: 20px;
+        border-radius: 10px;
+    }
+
 /* end all heading */
 
 /* start all section */
